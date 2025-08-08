@@ -1,0 +1,66 @@
+Street:  BPI Building
+
+City:   Makati City
+
+State/province/area:    Metro Manila
+
+Phone number:  8916679
+
+Country calling code:  +63
+
+Country:  Philippines
+Street:  Fruition Building18 C. Palanca StreetPhase I B F Homes 1700
+
+City:   Paranaque City
+
+State/province/area:    Paranaque City
+
+Phone number:  8200542/8094140
+
+Country calling code:  +63
+
+Country:  Philippines
+Street:  459 U.N Ave.
+
+City:   Manila
+
+State/province/area:    Metro Manila
+
+Phone number:  63 (2) 523-3187
+
+Country calling code:  +63
+
+Country:  Philippines
+Street:  #3 E. Rodriguez Jr. Ave., Bagong Ilog, Pasig
+
+City:   Ncr
+
+State/province/area:    Pasig City
+
+Phone number:  6711953 / 6712048 / 6713780
+
+Country calling code:  +63
+
+Country:  Philippines
+Street:  341-B Taylo Sta Mara 1300
+
+City:   Pasay City
+
+State/province/area:    Pasay City
+
+Phone number:  8245981/5508243/8340760
+
+Country calling code:  +63
+
+Country:  Philippines
+Street:  Unit 2605 Antel Global Center Julia Vargas Avenue Ortigas 1605
+
+City:   Pasig City
+
+State/province/area:    Pasig City
+
+Phone number:  6879359/6879112/6879135
+
+Country calling code:  +63
+
+Country:  Philippines
